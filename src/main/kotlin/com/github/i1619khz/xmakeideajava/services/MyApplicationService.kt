@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.i1619khz.xmakeideajava.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.i1619khz.xmakeideajava.MyBundle
 
 class MyApplicationService {
 
